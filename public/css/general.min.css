@@ -1,0 +1,15 @@
+html, body {
+  font-size: 0.875rem;
+  font-family: 'Open Sans', sans-serif;
+  padding: 0;
+  margin: 0;
+}
+ul {
+  list-style: none;
+}
+a {
+  color: inherit;
+}
+a:hover {
+  text-decoration: none;        
+}
